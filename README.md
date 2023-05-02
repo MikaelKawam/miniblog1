@@ -1,7 +1,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="GetAPet" title="FirebaseJournal"  />
+    <img  title="FirebaseJournal"  />
 </h1>
 
 <h4 align="center"> 
